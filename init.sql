@@ -6,6 +6,15 @@ CREATE TABLE reminders (
     due_date        TIMESTAMP WITH TIME ZONE NOT NULL
 );
 
+CREATE TABLE personal_reminders (
+    id serial PRIMARY KEY,
+    user_id BIGINT NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    message TEXT,
+    due_date TIMESTAMP WITH TIME ZONE NOT NULL,
+    notified BOOLEAN DEFAULT FALSE
+);
+
 
 CREATE TABLE grade_categories(
     id              bigserial primary key,
