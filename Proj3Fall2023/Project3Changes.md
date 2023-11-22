@@ -9,3 +9,9 @@ Here we created some new commands for the users ```$showCommands``` and ```$show
 
 ### Documentation
 This version includes a more detailed [Installation Guide](https://github.com/maddaicita/ClassMateBot-1.1/blob/main/docs/installation.md) including more detailed instructions for envirnoment setup, mainly dealing with the Google Calendar API so there is less confusion. We also updated much of the comments and standardized nameing conventions as before we started there was a large mix of ```command_name``` and ```newCommand``` which created inconsistancy. Along with this was updating the block comments for commands so new developers know the purpose of each parameter and have a clear understanding of its purpose as before the parameters documentation was sparse and inconsistant.
+
+### Docker Setup for ClassMateBot:
+ To advance the deployment process, Docker was used for containerizing ClassMateBot. This enhancement aims to establish a consistent and efficient development environment across various systems. Key tasks include creating a Dockerfile, updating documentation for Docker utilization, and ensuring proper setup of environment variables. The addition of Docker was tested locally for seamless integration.
+
+### Upgrade Reminder System: 
+A new Reminders Cog for more personalized reminder management, independent of course-related tasks. This includes the capability to add, delete, list, and update personal reminders. A dedicated personal_reminders table was added to support this functionality, enabling enhanced features while maintaining the existing system's integrity.
