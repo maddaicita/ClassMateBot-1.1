@@ -350,7 +350,7 @@ For the helper.py file
 ---
 
 ## :earth_americas: Future Scope
-[Future scope](https://github.com/nfoster1492/ClassMateBot-1/projects/1) suggested tasks are located in the Projects tab. 
+[Future scope](https://github.com/users/maddaicita/projects/3) suggested tasks are located in the Projects tab. 
 
 
 ---
@@ -358,7 +358,19 @@ For the helper.py file
 
 ## :pencil2: Contributors
 
-### :pencil2: (Fall 2023)
+### :pencil2: (Fall 2023 - 2)
+
+<table>
+  <tr>
+    <td><a href="https://github.com/maddaicita/ClassMateBot-1.1">Project 3</a></td>
+    <td align="center"><a href="https://github.com/maddaicita/"><img src="https://avatars.githubusercontent.com/u/maddaicita" width="75px;" alt=""/><br /><sub><b>Maday Moya</b></sub></a></td>
+    <td align="center"><a href="https://github.com/greyfiles/"><img src="https://avatars.githubusercontent.com/u/greyfiles" width="75px;" alt=""/><br /><sub><b>Grey Files</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/JacobBow/"><img src="https://avatars.githubusercontent.com/u/JacobBow" width="75px;" alt=""/><br /><sub><b>Jacob Bowen</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/absolloot/"><img src="https://avatars.githubusercontent.com/u/absolloot" width="75px;" alt=""/><br /><sub><b>Matthew Replogle</b></sub></a><br /></td>
+  </tr>
+</table>
+
+### :pencil2: (Fall 2023 - 1)
 
 <table>
   <tr>
