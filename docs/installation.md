@@ -80,7 +80,7 @@ If you used the PostgreSQL installer, you should have a program called pgAdmin4.
 6. Go to the `Advanced` tab. Inside the **DB Restriction** field, enter your Heroku **Database** credential. (This is the same string you entered into **Maintenance Database**.) DO NOT SKIP THIS STEP.
 7. _Now_ you can press save.
 8. Inside your newly created server, open up the `Databases > Schemas > Public` drop down lists. Right click on `Tables` and select the `Query Tool`.
-9. Inside the query tool, click on `Query Editor.` Copy and paste the contents of [this SQL file](https://github.com/nfoster1492/ClassMateBot-1/blob/main/init.sql) into the editor and then click on the execute button (looks like a play button).
+9. Inside the query tool, click on `Query Editor.` Copy and paste the contents of [this SQL file](https://github.com/maddaicita/ClassMateBot-1.1/blob/main/init.sql) into the editor and then click on the execute button (looks like a play button).
 10. Right click on `Tables` and select `refresh`.
 
 Congratulations! You now have your tables set up.
