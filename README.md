@@ -358,7 +358,7 @@ For the helper.py file
 
 ## :pencil2: Contributors
 
-### :pencil2: (Fall 2023 - 2)
+### :pencil2: (Fall 2023)
 
 <table>
   <tr>
@@ -368,11 +368,6 @@ For the helper.py file
     <td align="center"><a href="https://github.com/JacobBow/"><img src="https://avatars.githubusercontent.com/u/JacobBow" width="75px;" alt=""/><br /><sub><b>Jacob Bowen</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/absolloot/"><img src="https://avatars.githubusercontent.com/u/absolloot" width="75px;" alt=""/><br /><sub><b>Matthew Replogle</b></sub></a><br /></td>
   </tr>
-</table>
-
-### :pencil2: (Fall 2023 - 1)
-
-<table>
   <tr>
     <td><a href="https://github.com/nfoster1492/ClassMateBot-1">Project 2</a></td>
     <td align="center"><a href="https://github.com/brwali/"><img src="https://avatars.githubusercontent.com/u/144480335?v=4" width="75px;" alt=""/><br /><sub><b>Brandon Walia</b></sub></a></td>
